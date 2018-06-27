@@ -1,4 +1,5 @@
 # my-vscode-json
+<pre>
   {
     "window.zoomLevel": 0,
     "editor.fontSize": 15,
@@ -46,3 +47,4 @@
     "files.defaultLanguage": "html",
     "editor.smoothScrolling": true,
 }
+</pre>
